@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexmipt/Рабочий стол/Code/Yandex/monitorning/main.cpp
+cmath
+-
+vector
+-
+map
+-
+unordered_map
+-
+set
+-
+unordered_set
+-
+algorithm
+-
+chrono
+-
+unistd.h
+-
+sensor.h
+/home/alexmipt/Рабочий стол/Code/Yandex/monitorning/sensor.h
+
+/home/alexmipt/Рабочий стол/Code/Yandex/monitorning/sensor.cpp
+sensor.h
+/home/alexmipt/Рабочий стол/Code/Yandex/monitorning/sensor.h
+
+/home/alexmipt/Рабочий стол/Code/Yandex/monitorning/sensor.h
+iostream
+-
+string
+-
+
