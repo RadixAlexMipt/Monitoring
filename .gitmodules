@@ -1,0 +1,9 @@
+[submodule "csv-parser"]
+	path = third_party/csv-parser
+	url = https://github.com/vincentlaucsb/csv-parser
+[submodule "thread-pool"]
+	path = third_party/thread-pool
+	url = https://github.com/bshoshany/thread-pool.git
+[submodule "cpr"]
+	path = third_party/cpr
+	url = https://github.com/libcpr/cpr.git
